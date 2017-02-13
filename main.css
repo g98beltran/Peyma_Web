@@ -1,0 +1,30 @@
+img{
+	max-width: 50%;
+}
+li{
+	color: #9D5B5F
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.pacifico{
+	font-family: 'pacifico',cursive;
+}
+.quitar-float{
+	float: none;
+}
+.grande{
+	font-size: 2em;
+}
+.vert{
+	color: #00E597
+}
+
+.marro{
+	color: #9D5B5F
+}
+.blau{
+	color: #3F6A82
+}
